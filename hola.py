@@ -5,5 +5,8 @@ Created on Sun Sep  1 10:17:44 2019
 @author: HERNA
 """
 
-print ("hola")
-
+hungry = input ("are you hungry?")
+if hungry == "yes":
+    print("eat samosa")
+else:
+    print("do your homework")    
